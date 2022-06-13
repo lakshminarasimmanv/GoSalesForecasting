@@ -1,4 +1,4 @@
-# Using Machine Learning for Sales Forecasting using Go
+# Sales Forecasting using Go
 
 The above code is a simple implementation of a neural network using Go.
 
