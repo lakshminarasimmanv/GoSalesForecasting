@@ -37,8 +37,11 @@ go run SalesForecasting.go
 The code will train the neural network for 60000 epochs, and will then print the results of the training. The results should look something like this:
 
 [0 0] [0.5029325971603012] 0
+
 [0 1] [0.4922122836036682] 1
+
 [1 0] [0.4987459897994995] 1
+
 [1 1] [0.49402040241241455] 0
 
 The first column is the input to the neural network, the second column is the output of the neural network, and the third column is the expected output. As you can see, the neural network has learned the XOR function.
